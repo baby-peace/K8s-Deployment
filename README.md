@@ -80,10 +80,10 @@ Helm : [Helm Installation Guide](https://helm.sh/docs/intro/install/)
 
 
 # STEPS:
-1. My first approach  to this project was to create a working directory! I named it SOCK-SHOP I was able to achieve this with the command: [mkdir SOCK-SHOP]
+1. My first approach  to this project was to create a working directory! I named it SOCK-SHOP with this command: [mkdir SOCK-SHOP]
 
 2. How i set up my Terraform :
-I created a directory for my terraform files, in the directory i created `main.tf` file i did this with the command `touch main.tf` on my CLI which helps to hold contents of the provisions in the Eks cluster then i created other resources needed with the AWS console.
+I created a directory for my terraform files, in the directory i created `main.tf` file with this command `touch main.tf` on my CLI which helps to hold contents of the provisions in the Eks cluster then i created other resources needed with the AWS console.
 
 3. Setting up my Eks Cluster Provisioning : [ these are the Steps i took to Provision an EKS cluster using Terraform](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest).
 
